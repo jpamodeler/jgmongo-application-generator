@@ -1,0 +1,1 @@
+# jgmongo-application-generator
